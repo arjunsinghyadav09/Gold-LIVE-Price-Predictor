@@ -1,4 +1,4 @@
-# Project 1: XAUUSD Simple Gold Price Direction Predictor
+# Project 1: XAUUSD Simple Gold Price PRICE Predictor
 
 A beginner-friendly ML pipeline that predicts whether Gold will go UP or DOWN the next day.
 
