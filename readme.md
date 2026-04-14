@@ -15,10 +15,8 @@ pip install yfinance pandas numpy scikit-learn matplotlib
 python gold_price_predictor.py
 ```
 
-## For live data, replace the CSV loader with:
-```python
-gold = yf.download("GC=F", start="2018-01-01", end="2024-12-31")
-```
+## Data
+Live data is fetched automatically up to today's date every time you run the script — no manual downloads needed.
 
 ## Tech stack
 `Python` · `pandas` · `numpy` · `scikit-learn` · `matplotlib` · `yfinance`
